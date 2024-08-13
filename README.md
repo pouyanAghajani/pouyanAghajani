@@ -16,6 +16,5 @@ I'm a passionate Front-End Web Developer specializing in JavaScript, React, and 
 - Contributing to open-source projects and collaborating with other developers.
 
 ### Get in Touch
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **Email:** [pouyan9394@gmail.com](mailto:your.email@example.com)
 - **LinkedIn:** [Your LinkedIn Profile](#)
-- **GitHub:** [Your GitHub Profile](#)
