@@ -3,7 +3,7 @@
 I'm a passionate Front-End Web Developer specializing in JavaScript, React, and Next.js. I enjoy creating responsive and performant web applications that provide great user experiences. My expertise includes working with Progressive Web Apps (PWA) and Tailwind CSS to design modern, clean interfaces.
 
 ### Skills
-- **Languages:** JavaScript, HTML, CSS
+- **Languages:** HTML, JavaScript, CSS
 - **Frameworks:** React, Next.js
 - **Tools & Libraries:** Tailwind CSS, PWA, Git
 
