@@ -38,3 +38,4 @@ I'm a passionate **Front-End Web Developer** specializing in **JavaScript, React
 
 - **Email:** [pouyan9394@gmail.com](mailto:pouyan9394@gmail.com)
 - **LinkedIn:** [pouyanAghajani](https://www.linkedin.com/in/pouyanaghajani)
+- **Telegram:** [pouyan7000](https://t.me/pouyan7000)
