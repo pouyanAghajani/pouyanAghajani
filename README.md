@@ -27,3 +27,12 @@ I'm a passionate Front-End Web Developer specializing in JavaScript, React, and 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![PWA](https://img.shields.io/badge/Progressive_Web_App-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
+
+### Technologies & Tools
+
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![React DOM](https://img.shields.io/badge/React_DOM-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Icons](https://img.shields.io/badge/React_Icons-0088CC?style=for-the-badge&logo=react&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router_DOM-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Vite Tsconfig Paths](https://img.shields.io/badge/Vite_TSConfig_Paths-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
