@@ -17,4 +17,4 @@ I'm a passionate Front-End Web Developer specializing in JavaScript, React, and 
 
 ### Get in Touch
 - **Email:** [pouyan9394@gmail.com](mailto:pouyan9394@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](#)
+- **LinkedIn:** [pouyanAghajani](https://www.linkedin.com/in/pouyanaghajani)
